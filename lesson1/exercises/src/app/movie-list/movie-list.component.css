@@ -1,6 +1,7 @@
 .movies {
     color:tomato;
-    font-size: 1.3vw
+    font-size: 1.3vw;
+    border: 2px dashed green;
 }
 
 h3 {
