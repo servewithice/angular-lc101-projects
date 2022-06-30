@@ -6,7 +6,16 @@
     color: #3c79b8;
 }
 
+#workHarder {
+    color: green;
+}
+
 h3 {
+    text-align: center;
+}
+
+.howToEarn {
+    color:aqua;
     text-align: center;
 }
 
